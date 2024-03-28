@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo provides an analysis of how an artist's career can be affected by "cancel culture", and if the specific cancellable actions are more impactful.
+This repo provides an analysis of how an artist's audience can be affected by "cancel culture" and if different, controversial actions are more impactful on the artist's career.
 
 
 ## File Structure
