@@ -14,8 +14,8 @@ library(tidyverse)
 # [...UPDATE THIS...]
 
 #### Download data ####
-# [...ADD CODE HERE TO DOWNLOAD...]
-
+chrisb <-get_artist_audio_features("chrisb")
+saveRDS(chrisb, "data/raw_data/chrisb.rds")
 
 
 #### Save data ####
